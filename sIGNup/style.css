@@ -1,0 +1,70 @@
+body {
+	background-color: lavender;
+}
+
+textarea.textarea {
+	max-height: 80px;
+	max-height: ;
+	min-height: 70px;
+	max-width: 50%;
+	min-width: 50%%;
+}
+
+input[type="text"], input[type="text"]:focus {
+	border-radius: 3px;
+	border: solid 1px gray;
+	width:100%;
+	height: 30px;
+}
+
+a {
+	color: blue;
+	font-size: 12px;
+	font-family: Arial
+}
+
+form, table {
+	width: 400px;
+}
+
+
+input[type="radio"] {
+	font-family: Arial;
+}
+
+p {
+	font-family: Arial;
+	font-size: 11px;
+}
+
+button {
+	border: none;
+	width: 100%;
+	font-family: verdana;
+	  color: #FCF7FA !important;
+	  font-size: 14px;
+	  text-shadow: 2px 2px 0px #3A5169;
+	  box-shadow: 1px 1px 1px #BEE2F9;
+	  padding: 10px 25px;
+	  -moz-border-radius: 10px;
+	  -webkit-border-radius: 10px;
+	  border-radius: 7px;
+	  background: #248F14;
+	  background: linear-gradient(top,  #53D62B,  #17800F);
+	  background: -ms-linear-gradient(top,  #53D62B,  #17800F);
+	  background: -webkit-gradient(linear, left top, left bottom, from(#53D62B), to(#17800F));
+	  background: -moz-linear-gradient(top,  #53D62B,  #17800F);
+}
+
+button:hover {
+	color: #F7EDF1 !important;
+  background: #2A9918;
+  background: linear-gradient(top,  #1B7510,  #22E31B);
+  background: -ms-linear-gradient(top,  #1B7510,  #22E31B);
+  background: -webkit-gradient(linear, left top, left bottom, from(#1B7510), to(#22E31B));
+  background: -moz-linear-gradient(top,  #1B7510,  #22E31B);
+}
+
+div.position-right {
+	margin:50px;
+}
